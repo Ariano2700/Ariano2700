@@ -32,10 +32,15 @@
   <div class="imagesContainer" align="center">
     <div>
       <img
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlhb2NpcTdiMncyMW55djlxd3ptMGtncHo4MXpkazZiOHU1N3JlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
+        alt="gif"
+        style="border-radius: 100%; height: 100%; width: 100%"
+      />
+      <!--<img
         src="https://i.ibb.co/p6qbdFm/foto-copia.png"
         alt="profileImg"
         style="height: 340px; width: 340px;"
-      />
+      />-->
     </div>
   </div>
 </section>
