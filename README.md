@@ -100,6 +100,10 @@
         alt="Static Badge"
         src="https://img.shields.io/badge/NetBeans-blue?style=flat&logo=apache&logoColor=white"
       />
+      <img
+        alt="Static Badge"
+        src="[https://img.shields.io/badge/NetBeans-blue?style=flat&logo=apache&logoColor=white](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)"
+      />
     </div>
     <div class="imagesMini">
       <h2>Providers 💬</h2>
