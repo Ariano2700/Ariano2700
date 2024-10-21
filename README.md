@@ -7,9 +7,9 @@
   <div class="textContainer">
     <div class="">
       <p>
-        My name is Ariano Alban, I'm in my seventh semester of university at UTP
-        (Peru), I've been learning different technologies in which I have +1
-        year of experience, such as Spring Boot and React. In my free time I
+        My name is Ariano Alban, I'm in my eighth semester of university at UTP
+        (Peru), I've been learning different technologies in which I have +2
+        years of experience, such as Spring Boot, NestJS and React. In my free time I
         like to play video games and I stream them in my <a href="https://www.twitch.tv/ariano2700">Twitch channel.</a>
   </p>
           </div>
@@ -21,8 +21,8 @@
        public UserPresentation() {
          this.name = "Ariano ⚡";
          this.lastname = "Alban ⚡";
-         this.age = "19 ⚡";
-         this.favoriteLang = "TypeScript and JAVA ❤️";
+         this.age = "20 ⚡";
+         this.favoriteLang = "TypeScript and Java ❤️";
          this.hobby= "Play videogames and stream on Twitch 💻";
       }
     }
@@ -50,8 +50,16 @@
     <div class="imagesMini">
       <h2>Technologies 💻</h2>
       <img
-        alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"
+        alt="TypeScript"
+        src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"
+      />
+      <img
+        alt="NextJS"
+        src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+      />
+      <img
+        alt="NestJS"
+        src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"
       />
       <img
         alt="Python"
@@ -68,10 +76,6 @@
       <img
         alt="CSS"
         src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"
-      />
-      <img
-        alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"
       />
       <img
         alt="React"
@@ -99,10 +103,6 @@
       <img
         alt="Static Badge"
         src="https://img.shields.io/badge/NetBeans-blue?style=flat&logo=apache&logoColor=white"
-      />
-      <img
-        alt="Static Badge"        
-src="https://camo.githubusercontent.com/b5fbd6962c99ed5037a12c67b8d51d7045b1a2381168614809a75d01a22e846b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a5f494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465"
       />
     </div>
     <div class="imagesMini">
