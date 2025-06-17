@@ -23,7 +23,7 @@
          this.lastname = "Alban ⚡";
          this.age = "20 ⚡";
          this.favoriteLang = "TypeScript and Java ❤️";
-         this.hobby= "Play videogames and stream on Twitch 💻";
+         this.hobby= "Play videogames and stream on Kick 💻";
       }
     }
 
