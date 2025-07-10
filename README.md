@@ -8,9 +8,9 @@
     <div class="">
       <p>
         My name is Ariano Alban, I'm in my eighth semester of university at UTP
-        (Peru), I've been learning different technologies in which I have +2
+        (Peru), I've been learning different technologies in which I have +3
         years of experience, such as Spring Boot, NestJS and React. In my free time I
-        like to play video games and I stream them in my <a href="https://www.twitch.tv/ariano2700">Twitch channel.</a>
+        like to play video games and I stream them in my <a href="https://kick.com/ariano2700">Kick channel.</a>
   </p>
           </div>
     <div class="">
