@@ -7,10 +7,7 @@
   <div class="textContainer">
     <div class="">
       <p>
-        My name is Ariano Alban, I'm in my eighth semester of university at UTP
-        (Peru), I've been learning different technologies in which I have +3
-        years of experience, such as Spring Boot, NestJS and React. In my free time I
-        like to play video games and I stream them in my <a href="https://kick.com/ariano2700">Kick channel.</a>
+          My name is Ariano Alban, I'm a UTP (Peru) graduate with +5 years of experience in technologies like Spring Boot, NestJS and React. In my free time I like to play video games and I stream them on my <a href="https://kick.com/ariano2700">Kick channel.</a>
   </p>
           </div>
     <div class="">
@@ -21,7 +18,7 @@
        public UserPresentation() {
          this.name = "Ariano ⚡";
          this.lastname = "Alban ⚡";
-         this.age = "20 ⚡";
+         this.age = "22 ⚡";
          this.favoriteLang = "TypeScript and Java ❤️";
          this.hobby= "Play videogames and stream on Kick 💻";
       }
